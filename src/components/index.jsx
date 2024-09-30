@@ -2,7 +2,7 @@ import { Flex } from '@chakra-ui/react'
 import { useState } from 'react'
 
 import Content from './content/Content.jsx'
-import Footer from './footer/Footer.jsx'
+
 import Header from './header/Header.jsx'
 
 const DSA = ({ data, setData, isHomeScreen, selectedContentIndex }) => {
@@ -33,7 +33,7 @@ const DSA = ({ data, setData, isHomeScreen, selectedContentIndex }) => {
                 selectedContentIndex={selectedContentIndex}
                 searchValue={searchValue}
             />
-            <Footer data={data} />
+            
         </Flex>
     )
 }
