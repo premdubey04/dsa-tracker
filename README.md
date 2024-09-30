@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A2Z-DSA Tracker 🚀
 
 [![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
@@ -92,3 +93,6 @@ https://user-images.githubusercontent.com/63164037/193985341-85f57456-6057-4444-
 [chakra ui]: https://chakra-ui.com/
 [450]: https://450dsa.com/
 [V Asish Raju]: https://www.linkedin.com/in/asishraju/
+=======
+# dsa-tracker
+>>>>>>> origin/main
